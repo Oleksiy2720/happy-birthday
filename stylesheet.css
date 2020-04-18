@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: aliceblue
+}
+
+.image-filler {
+    
+    display:block;
+    position: absolute;
+    background-color: thistle;
+    width: 100vw;
+    height: 100vh;
+}
+.image-background{
+    
+    width: 69%;
+    height: %;
+    object-fit: cover
+}
+.centered-block{
+    position: absolute;
+    top: 25%;
+    bottom: 50%;
+    left: 0%;
+    right: 85%;
+    z-index: 10;
+    color: black;
+}
